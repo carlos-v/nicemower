@@ -1,2 +1,2 @@
-# nicemower
+# NiceMower
 Robot cortacésped remoto
